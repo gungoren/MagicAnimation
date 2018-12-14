@@ -1,7 +1,7 @@
 # MagicAnimation
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](https://github.com/gungoren/MagicAnimation/)
-[![Relase](https://img.shields.io/github/release/gungoren/MagicAnimation.svg)](https://github.com/gungoren/MagicAnimation/releases)
+<!-- [![Relase](https://img.shields.io/github/release/gungoren/MagicAnimation.svg)](https://github.com/gungoren/MagicAnimation/releases) -->
 [![GitHub stars](https://img.shields.io/github/stars/gungoren/MagicAnimation.svg)](https://github.com/gungoren/MagicAnimation/stargazers) 
 [![GitHub issues](https://img.shields.io/github/issues/gungoren/MagicAnimation.svg)](https://github.com/gungoren/MagicAnimation/issues)
 [![GitHub forks](https://img.shields.io/github/forks/gungoren/MagicAnimation.svg)](https://github.com/gungoren/MagicAnimation/network/members)
