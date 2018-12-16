@@ -10,7 +10,7 @@
 
 
 ## Demo
-Will be added 
+<img src="https://github.com/gungoren/MagicAnimation/blob/master/art/animation.gif"/> 
 
 ## Issues
 
